@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [<b>Praciting DS & Algos in Python</b>](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>The Risks Of Public Wi-Fi</b>
+  - [<b>Evil Portal</b>](https://docs.google.com/presentation/d/1jluQ4PlrcisiKF4-ZrVUxPH3xly5L0_O1i7D_gEeavo/edit?usp=sharing)
   
 <h2>📜 Certifications:</h2>
 
 - [<b>CyberSecurity Vanderbilt University Boot Camp</b>](https://github.com/AngelcoreS)
+- [<b>ComTIA | Security + (Expected Jul)</b>](https://github.com/AngelcoreS)
 
 <h2> 🤳 Connect with me:</h2>
 

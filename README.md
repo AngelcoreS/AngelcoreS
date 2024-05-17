@@ -17,6 +17,7 @@
 <h2>📜 Certifications:</h2>
 
 - [<b>CyberSecurity Vanderbilt University Boot Camp</b>](https://github.com/AngelcoreS)
+  
 - [<b>ComTIA | Security + (Expected Jul)</b>](https://github.com/AngelcoreS)
 
 <h2> 🤳 Connect with me:</h2>

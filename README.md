@@ -2,6 +2,15 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Web Application on Azure App Service</b>
+  - [<b>Web App Azure</b>](https://github.com/AngelcoreS/Web-App-Azure)
+    
+- <b>Penetration Test</b>
+  - [<b>Penetration Test for Rekall Corporation</b>](https://github.com/AngelcoreS/Penetration-Test)
+    
+- <b>Security Information and Event Management (SIEM)</b>
+  - [<b>Splunk Security Monitorin Enviroment</b>](https://github.com/AngelcoreS/Splunk-Security-Monitoring-Environment)
+    
 - <b>The Risks Of Public Wi-Fi</b>
   - [<b>Evil Portal</b>](https://docs.google.com/presentation/d/1jluQ4PlrcisiKF4-ZrVUxPH3xly5L0_O1i7D_gEeavo/edit?usp=sharing)
   

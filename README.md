@@ -18,7 +18,7 @@
 
 - [<b>CyberSecurity Vanderbilt University Boot Camp</b>](https://vanderbilt.credential.getsmarter.com/26597145-d12b-472f-a8f4-0f391908d76a#gs.d1swh1)
   
-- [<b>ComTIA | Security + </b>](https://www.credly.com/badges/5faf7586-212d-4208-ac14-f08d3d38255e/public_url)
+- [<b>ComTIA | Security+ </b>](https://www.credly.com/badges/5faf7586-212d-4208-ac14-f08d3d38255e/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -4,6 +4,7 @@
 
 - <b>Web Application on Azure App Service</b>
   - [<b>Web App Azure</b>](https://github.com/AngelcoreS/Web-App-Azure)
+  - [<b>PHPmailer Web Azure</b>](https://github.com/AngelcoreS/Phpmailer-Web-Azure)
     
 - <b>Penetration Test</b>
   - [<b>Penetration Test for Rekall Corporation</b>](https://github.com/AngelcoreS/Penetration-Test)

@@ -10,6 +10,8 @@
   - [<b>Penetration Test for Rekall Corporation</b>](https://github.com/AngelcoreS/Penetration-Test)
     
 - <b>Security Information and Event Management (SIEM)</b>
+
+  - [<b>Splunk Home Lab Guide</b>](https://github.com/AngelcoreS/Splunk-Installation-Guide)
   - [<b>Splunk Security Monitoring Enviroment</b>](https://github.com/AngelcoreS/Splunk-Security-Monitoring-Environment)
     
 - <b>The Risks Of Public Wi-Fi</b>
@@ -23,9 +25,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
--   [<img align="left" alt="Angel Perez  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Angel Perez  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Angel Perez web  | website" width="22px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/cyber-shield-5320227-4451382.png?f=webp&w=256" />][website]
 
 [linkedin]: https://www.linkedin.com/in/angel-perez-rosales/
+
+[website]: https://www.angelsecurity.site/
 
 <!--
 **AngelcoreS/AngelcoreS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

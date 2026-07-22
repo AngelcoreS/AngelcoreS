@@ -23,6 +23,9 @@
   
 - [<b>ComTIA | Security+ </b>](https://www.credly.com/badges/5faf7586-212d-4208-ac14-f08d3d38255e/public_url)
 
+- [<b>Hack The Box Certified Defensive Security Analyst | CDSA </b>](https://www.credly.com/badges/42d34cbc-136d-40bb-8ab4-1b8cae303132/public_url)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Angel Perez  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

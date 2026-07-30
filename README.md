@@ -1,6 +1,6 @@
 <h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-perez-rosales/">Cybersecurity Professional</a> & <a href="https://github.com/AngelcoreS">Programmer</a> </h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 CyberSecurity</h2>
 
 - <b>Web Application on Azure App Service</b>
   - [<b>Web App Azure</b>](https://github.com/AngelcoreS/Web-App-Azure)

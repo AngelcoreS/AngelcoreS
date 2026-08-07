@@ -1,4 +1,6 @@
-<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-perez-rosales/">Cybersecurity Professional</a> & <a href="https://github.com/AngelcoreS">Programmer</a> </h1>
+<p align="center">
+  <img src="assets/portfolio_banner_angel_perez.svg" alt="Hi, I'm Bryan Miller - Cybersecurity | Vulnerability Management | SecOps" width="100%" />
+</p>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 

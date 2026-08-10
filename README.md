@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portfolio_banner_angel_perez.svg" alt="Hi, I'm Bryan Miller - Cybersecurity | Vulnerability Management | SecOps" width="100%" />
+  <img src="assets/portfolio_banner_angel_perez.svg" alt="Hi, I'm Angel Perez - Cybersecurity | Vulnerability Management | SecOps" width="100%" />
 </p>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>

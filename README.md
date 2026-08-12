@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>DISA STIG Compliance Remediations</b>
+  - [<b>Programmatic DISA STIG Remediations (Powershell)</b>](https://github.com/AngelcoreS/DISA-STIG-Windows-Remediation)
+
 - <b>Web Application on Azure App Service</b>
   - [<b>Web App Azure</b>](https://github.com/AngelcoreS/Web-App-Azure)
   - [<b>PHPmailer Web Azure</b>](https://github.com/AngelcoreS/Phpmailer-Web-Azure)
